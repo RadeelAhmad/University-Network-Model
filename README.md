@@ -7,3 +7,5 @@
 - 2 Generic Servers
 
 ## Assign DHCP
+
+![image1](image/1.png)
