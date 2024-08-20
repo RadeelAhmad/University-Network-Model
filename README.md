@@ -37,3 +37,7 @@ IP used 193.168.1.0, 193.168.2.0, 193.168.3.0 and 193.168.40.0<br>2^2 = 4 (numbe
 | 192.16.11.0         |
 
 ## DNS Server
+
+![image1](image/4.png)
+![image1](image/4.1.png)
+![image1](image/4.2.png)
