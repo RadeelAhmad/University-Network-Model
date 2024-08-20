@@ -13,7 +13,7 @@
 
 ## Subnetting
 
-Ips used 193.168.1.0, 193.168.2.0, 193.168.3.0 and 193.168.40.0<br>2^2 = 4 (number of networks)<br>2^6 = 26 (number of hosts)<br>64-2 = 64 (IP that can be assigned)<br>Subnet mask = 255.255.255.192/26<br>Binary = 11111111.11111111.11111111.11000000
+IP used 193.168.1.0, 193.168.2.0, 193.168.3.0 and 193.168.40.0<br>2^2 = 4 (number of networks)<br>2^6 = 26 (number of hosts)<br>64-2 = 64 (IP that can be assigned)<br>Subnet mask = 255.255.255.192/26<br>Binary = 11111111.11111111.11111111.11000000
 
 
 | Network address          | Usable Host Range             | Broadcast Address      |
