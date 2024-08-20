@@ -9,3 +9,4 @@
 ## Assign DHCP
 
 ![image1](image/1.png)
+![image1](image/1.1.png)
